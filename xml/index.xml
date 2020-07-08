@@ -1,0 +1,93 @@
+<?xml version="1.0" encding="UTF-8"?>
+
+<movies>
+
+
+    <movie>
+        <title="Avengers: Endgame">
+            <rating>PG-13</rating>
+            <runtime>3hr 1min</runtime>
+            <genre>Action, Adventure, Drama</genre>
+            <releasedate>April 26, 2019</releasedate>
+        </title>
+
+        <maincast>
+            <actor name="Robert Downy Jr."/>
+            <actor name="Chris Evans"/>
+            <actor name="Mark Ruffalo"/>
+            <actor name="Scarlett Johansson"/>
+            <actor name="Chris Hemsworth"/>
+        </maincast>
+
+        <crew>
+            <directors>
+                <director name="Anthony Russo"/>
+                <director name="Joe Russo";/>
+            <directors>
+            <writer name="Christopher Markus"/>
+            <execproducers>
+                <execproducer name="Victoria Alonso"/>
+                <execproducer name="Louis D'Espinosa"/>
+            </execproducers>
+            <music name="Alan Silvestri"/>
+        </crew> 
+    </movie>
+
+
+    <movie>
+        <title="Knives Out">
+            <rating>PG-13</rating>
+            <runtime>2hr 11min</runtime>
+            <genre>Comedy, Crime, Drama</genre>
+            <releasedate></releasedate>
+        </title>
+
+        <maincast>
+            <actor name="Daniel Craig"/>
+            <actor name="Chris Evans"/>
+            <actor name="Ana de Armas"/>
+            <actor name="Jamie Lee Curtis"/>
+            <actor name="Toni Collette"/>
+        </maincast>
+
+        <crew>
+            <director name="Rian Johnson">
+            <writer name="Rian Johnson"/>
+            <execproducers>
+                <execproducer name="Tom Karnowski"/>
+                <execproducer name="Leopold Hughes"/>
+            </execproducers>
+            <music name="Nathan Johnson"/>
+        </crew>
+    </movie>
+
+
+    <movie>
+        <title="1917">
+            <rating>R</rating>
+            <runtime>1hr 59min</runtime>
+            <genre>Drama, War</genre>
+            <releasedate>January 10, 2020</releasedate>
+        </title>
+
+        <maincast>
+            <actor name="Dean-Charles Chapman"/>
+            <actor name="George MacKay"/>
+            <actor name="Daniel Mays"/>
+            <actor name="Colin Firth"/>
+            <actor name="Pip Carter"/>
+        </maincast>
+
+        <crew>
+            <director name="Sam Mendes"/>
+            <writer name="Krysty Wilson-Cairns"/>
+            <execproducers>
+                <execproducer name="Jeb Brody"/>
+                <execproducer name="Ricardo Marco Bude"/>
+            </execproducers>
+            <music name="Thomas Newman"/>
+        </crew>
+
+    </movie>
+
+</movies>
