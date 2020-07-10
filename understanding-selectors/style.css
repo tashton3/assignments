@@ -1,0 +1,19 @@
+.flex-container {
+  height: 245px;
+  width: 400px;
+  align-content: flex-end;
+  background-color: red;
+  border-radius: 20px;
+  box-shadow: 1px 1px 12px grey;
+  letter-spacing: 3px;
+}
+
+.flex-container div {
+  background-color: #ffffff;
+  width: 400px;
+  text-align: center;
+  line-height: 115px;
+  font-size: 100px;
+  font-family: Bradley Hand, cursive;
+  letter-spacing: 1px;
+}
