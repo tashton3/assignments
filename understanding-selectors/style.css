@@ -1,16 +1,33 @@
-.flex-container {
+.tag {
   height: 245px;
   width: 400px;
-  align-content: flex-end;
   background-color: red;
   border-radius: 20px;
   box-shadow: 1px 1px 12px grey;
-  letter-spacing: 3px;
 }
-
-.flex-container div {
+.p1 {
+  font-family: arial;
+  font-size: 54px;
+  font-weight: bold;
+  text-align: center;
+  color: #ffffff;
+  letter-spacing: 3px;
+  padding-top: 5px;
+}
+.p2 {
+  font-family: arial;
+  font-style: italic;
+  font-size: 30px;
+  text-align: center;
+  color: #ffffff;
+  letter-spacing: 2px;
+  line-height: 20px;
+  padding-bottom: 15px;
+}
+.name {
   background-color: #ffffff;
   width: 400px;
+  height: 122px;
   text-align: center;
   line-height: 115px;
   font-size: 100px;
