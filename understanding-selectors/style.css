@@ -1,7 +1,7 @@
 .tag {
   height: 245px;
   width: 400px;
-  background-color: red;
+  background-color: #cc0000;
   border-radius: 20px;
   box-shadow: 1px 1px 12px grey;
 }
